@@ -2,5 +2,6 @@
 
 Все требования к нему протестированы в файле `testEventEmitter.ts`
 
-Запуск на Windows:<br> 1)`npm i` <br>2)`tsc testEventEmitter.ts; node testEventEmitter.js`
+### Запуск:<br> 
+1)`npm i` <br>2)`tsc testEventEmitter.ts; node testEventEmitter.js`
 или `tsc testEventEmitter.ts && node testEventEmitter.js`
